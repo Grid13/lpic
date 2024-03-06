@@ -1,0 +1,7 @@
+home country :France
+reason for the visit : Tourisme
+Name: Paul
+Surname: Balkan
+Duration : 14 days
+Height: 180cm
+weight: 75kg
